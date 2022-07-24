@@ -1,8 +1,8 @@
 FROM ubuntu:20.04
 
 LABEL maintainer="Pascal Watteel" \
-      name="mcsrv" \
-      version="1.0"
+      name="chitti" \
+      version="0.1"
 
 #set env variables
 ENV DEBIAN_FRONTEND noninteractive
